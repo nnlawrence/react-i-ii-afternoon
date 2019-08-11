@@ -1,0 +1,9 @@
+.display-box {
+    height: 400px;
+    width: 1180px;
+    background: lightgray;
+    margin-top: 100px;
+    margin-left: 130px;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
